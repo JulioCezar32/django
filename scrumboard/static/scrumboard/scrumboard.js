@@ -17,7 +17,7 @@
             list.cards.push(response.data);
             }
                 function(){
-                    alert('Could not create cart')
+                    alert('Could not create card')
                 });
         };
 
