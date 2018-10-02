@@ -19,7 +19,7 @@
 
                 //testando
                 function(){
-                    alert('Could not create card');
+                    alert('Could not create cardste');
                 }
             );
 
